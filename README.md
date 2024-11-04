@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Lebadura <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hello 👋, I'm Lebadura</h1>
 <h3 align="center">A passionate Python developer and designer from colombia</h3>
 
 - 🔭 I’m currently working on my **Python Course**
