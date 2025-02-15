@@ -1,9 +1,11 @@
 <h1 align="center">Hello 👋, I'm Lebadura</h1>
 <h3 align="center">A passionate Python developer and designer from colombia</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+- 🔭 I’m currently working on my **personal proyect**
 
-- 🌱 I’m currently learning **Mongo db** 
+- 🌱 learnt **Mongo db**
+
+- 💪🏻 full stack web developer **Mongo db** 
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
