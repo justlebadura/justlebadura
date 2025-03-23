@@ -34,10 +34,6 @@
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
   </a>
-  
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original.svg" alt="vue" width="40" height="40"/> 
-  </a>
 </p>
 
 <p align= "center">
