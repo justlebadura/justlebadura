@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on my **personal proyect**
 
-- 🌱 learnt **Mongo db**, **Vue**, **Html**, **Css**, **Typescript**, **javascript**, **python**.
+- 🌱 learn't **Mongo db**, **Vue**, **Html**, **Css**, **Typescript**, **javascript**, **python**.
 
-- 💪🏻 currently learning **React** 
+- 💪🏻 currently learning **React**, **PostgreSQL**. 
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
