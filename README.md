@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, I'm Lebadura</h1>
 <h3 align="center">A passionate Python developer and designer from colombia</h3>
 
-- 🔭 I’m currently working on my **personal proyect**
+- 🔭 I’m currently working on my **personal proyects**
 
-- 🌱 learn't **Mongo db**, **Vue**, **Html**, **Css**, **Typescript**, **javascript**, **python**.
+- 🌱 learn't **Mongo db**, **Vue**, **Html**, **Css**, **Typescript**, **javascript**, **python**, **Next.js**, **react**.
 
-- 💪🏻 currently learning **React**, **PostgreSQL**. 
+- 💪🏻 currently learning **PostgreSQL**. 
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -37,6 +37,5 @@
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=justlebadura&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justlebadura&theme=react&layout=compact" />
 </p>
