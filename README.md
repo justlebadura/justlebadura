@@ -1,41 +1,28 @@
-<h1 align="center">Hello 👋, I'm Lebadura</h1>
-<h3 align="center">A passionate Python developer and designer from colombia</h3>
 
-- 🔭 I’m currently working on my **personal proyects**
+<img src="./img/banner.png" style="border-radius: 10px">
 
-- 🌱 learn't **Mongo db**, **Vue**, **Html**, **Css**, **Typescript**, **javascript**, **python**, **Next.js**, **react**.
+```js
+process.stdout.write("Hello, world 🌎");
+```
 
-- 💪🏻 currently learning **PostgreSQL**. 
+👋 hey, i'm [**grng**](https://grng.cc), a full-stack software dev hailing from [London 🇬🇧](https://www.google.com/maps/place/London/).
 
-<h3 align="center">Connect with me:</h3>
+i specialise in building **robust** & **scalable** software such as [stereo](https://stero.cat) using **typescript** and other technologies.
+
+on the flip-side, i also use **kotlin** and **c#** to make minecraft mods such as *edge (discontinued)* and Unity games.
+
 <div align="center">
 
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/x.libardo/?hl=en)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_lebadura_)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lebaduraprivatecontact@gmail.com)
-  
+[![Discord Presence](https://lanyard.cnrad.dev/api/759095921316331521?hideStatus=true&hideTag=true&borderRadius=0.75rem&showDisplayName=true)](https://discord.com/users/759095921316331521) ![](https://skills.syvixor.com/api/icons?i=windows,firefox,powershell,git,visualstudiocode,rider,intellijidea,adobepremierepro,adobeaftereffects,unity,figma,qwik,svelte,nextjs,typescript,supabase,pocketbase,drizzle,kotlin,csharp,golang,haxe,bun&perline=7&radius=60)
+
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<!--START_SECTION:waka-->
 
-<p align="center"> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
+```txt
+No activity tracked
+```
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
+<!--END_SECTION:waka-->
 
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-</p>
-
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justlebadura&theme=react&layout=compact" />
-</p>
+![moe](https://count.getloli.com/@:grng?theme=original-new&padding=1&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
