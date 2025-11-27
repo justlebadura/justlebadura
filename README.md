@@ -1,11 +1,9 @@
 
-<img src="./img/banner.png" style="border-radius: 10px">
-
-```js
-process.stdout.write("Hello, world 🌎");
+```py
+print("Hello, world 🌎");
 ```
 
-👋 hey, i'm [**grng**](https://grng.cc), a full-stack software dev hailing from [London 🇬🇧](https://www.google.com/maps/place/London/).
+👋 hey, i'm [**lebadura**](https://), a full-stack software dev hailing from [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/).
 
 i specialise in building **robust** & **scalable** software such as [stereo](https://stero.cat) using **typescript** and other technologies.
 
@@ -13,16 +11,5 @@ on the flip-side, i also use **kotlin** and **c#** to make minecraft mods such a
 
 <div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/759095921316331521?hideStatus=true&hideTag=true&borderRadius=0.75rem&showDisplayName=true)](https://discord.com/users/759095921316331521) ![](https://skills.syvixor.com/api/icons?i=windows,firefox,powershell,git,visualstudiocode,rider,intellijidea,adobepremierepro,adobeaftereffects,unity,figma,qwik,svelte,nextjs,typescript,supabase,pocketbase,drizzle,kotlin,csharp,golang,haxe,bun&perline=7&radius=60)
+[![Discord Presence](https://lanyard.cnrad.dev/api/759095921316331521?theme=dark&hideDecoration=true&hideTag=true)](https://discord.com/users/759095921316331521) ![](https://skills.syvixor.com/api/icons?i=windows,bash,firefox,powershell,git,visualstudiocode,adobepremierepro,adobephotoshop,adobeillustrator,figma,vue,react,nextjs,javascript,typescript,supabase,bun&perline=7&radius=60)
 
-</div>
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-![moe](https://count.getloli.com/@:grng?theme=original-new&padding=1&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
