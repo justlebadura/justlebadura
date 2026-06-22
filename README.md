@@ -1,11 +1,11 @@
 
 ```py
-print("Hello, world 🌎");
+hello_world("print")
 ```
 
 👋 hey, i'm [**lebadura**](https://), a full-stack software dev hailing from [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/).
 
-i'm always **testing** and **learning** new ways of helping others (like [CattleyaLang](https://github.com/justlebadura/cattleyaLang) using **python**) and other technologies.
+i'm always **testing** and **learning** new ways of helping others [CattleyaLang](https://github.com/justlebadura/cattleyaLang) a language math-oriented, [symbolic regression and indentification of systems](https://github.com/justlebadura/Invariant-Regression-and-Identification-of-Systems) designed to find math formulas based on inputs and outputs (transforming neuronal networks too) and other technologies.
 
 <div align="center">
 
